@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="29.6.0">
+  <diagram name="Page-1" id="ggJz96ab0pZFMZyAmnmC">
+    <mxGraphModel dx="1216" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0TFbyR8or-Ji92m-LSsy-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="First I had to get the code written that&#39;ll change, &quot;_photo.png&amp;nbsp;&quot; to, &quot;_info.txt&quot;" vertex="1">
+          <mxGeometry height="90" width="350" x="250" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0TFbyR8or-Ji92m-LSsy-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Make a file named, &quot;ParkPhotos.txt&quot;" vertex="1">
+          <mxGeometry height="60" width="280" x="290" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="0TFbyR8or-Ji92m-LSsy-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="Fill the file with png&#39;s, and have the code covert them to info.txt" vertex="1">
+          <mxGeometry height="60" width="350" x="250" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="0TFbyR8or-Ji92m-LSsy-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Challenges: Not challenging really short and simple code." vertex="1">
+          <mxGeometry height="70" width="230" x="315" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="0TFbyR8or-Ji92m-LSsy-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="30" width="40" x="250" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0TFbyR8or-Ji92m-LSsy-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2" vertex="1">
+          <mxGeometry height="30" width="60" x="280" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="0TFbyR8or-Ji92m-LSsy-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3" vertex="1">
+          <mxGeometry height="30" width="60" x="250" y="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
